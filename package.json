@@ -1,5 +1,5 @@
 {
-  "name": "ziko-addon_name",
+  "name": "ziko-math-signal",
   "version": "0.0.0",
   "description": "",
   "main": "index.js",
@@ -24,6 +24,6 @@
     "rollup": "^4.24.0"
   },
   "dependencies": {
-    "ziko": "^0.0.18"
+    "ziko": "^0.0.20"
   }
 }
