@@ -2,5 +2,5 @@
 
 <!-- 
 wasm ?
-rust ? go ? 
+rust ? golang? 
 -->
