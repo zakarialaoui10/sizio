@@ -2,6 +2,6 @@
 
 <!-- 
 wasm ?
-rust ? golang? 
+golang? 
 py
 -->
